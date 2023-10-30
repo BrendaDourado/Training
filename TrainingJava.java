@@ -1,8 +1,8 @@
 import exercises.*;
 
-public class CodityTests {
+public class TrainingJava{
     public static void main(String[] args) {
-        System.out.println("Olá, Mundo!");
+        System.out.println("Hello, World!");
 
         System.out.println("------Iniciando o exercicio BinaryGap: ");
        BinaryGap.binaryGapTest();
