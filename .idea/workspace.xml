@@ -5,14 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a216c7bd-ba88-4dd6-aac0-0aa9005cd1e8" name="Changes" comment="start repository">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrainingJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrainingJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/TrainingJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/TrainingJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/descriptionsExercicesRequirements/BinaryGapDsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/descriptionsExercicesRequirements/CyclicRotationDsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/descriptionsExercicesRequirements/FrogJumpDsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/descriptionsExercicesRequirements/OddOcurrencesInArrayDsc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/exercises/BinaryGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/exercises/CyclicRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/exercises/FrogJump.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingJava/exercises/OddOccurrencesInArray.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +93,7 @@
       <workItem from="1694746643017" duration="197000" />
       <workItem from="1694746867518" duration="300000" />
       <workItem from="1694747506928" duration="387000" />
-      <workItem from="1698411837212" duration="384000" />
+      <workItem from="1698411837212" duration="4571000" />
     </task>
     <task id="LOCAL-00001" summary="start repository">
       <option name="closed" value="true" />
